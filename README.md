@@ -1,2 +1,2 @@
 # AMD-Graphics-Card-AutoBuyer
-This is  a Bot which is created using Selenium Python to autobuy AMD graphics card from Bestbuy
+Finding Graphic Cards, in the age of Cryptocurrency is extremely difficult. I created this bot so that whenever a AMD graphic card becomes available you can buy it quickly. It will completel the entire process automatically, you just need to install the code, install selenium and run it, then you have to add you personal best buy information and it will completely the rest of the process automatically.
